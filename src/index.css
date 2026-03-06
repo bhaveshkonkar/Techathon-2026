@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+    background-color: #f8fafc;
+    /* zinc-950 */
+    color: #0f172a;
+}
